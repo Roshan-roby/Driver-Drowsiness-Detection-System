@@ -1,0 +1,2 @@
+# Driver-Drowsiness-Detection-System
+Drowsiness and Fatigue of drivers are one of the significant causes of road accidents. A module for the Advanced Driver Assistance System (ADAS) is presented to reduce the number of accidents due to driver fatigue.  We propose an algorithm to locate, track, and analyse the driver's face and eyes to measure PERCLOS, a scientifically supported measure of drowsiness associated with slow eye closure.
